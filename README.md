@@ -1,8 +1,8 @@
-### Hi there 👋
+### 我最不忍看你，背向我转面
 
 ![Xy's github stats](https://github-readme-stats.vercel.app/api?username=xiangyh9988&count_private=True&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangyh9988)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangyh9988&theme=radical)
 <!--
 **xiangyh9988/xiangyh9988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
